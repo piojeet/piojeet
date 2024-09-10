@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Priyajeet_Majhi" target="blank"><img src="https://img.shields.io/twitter/follow/priyajeet_majhi?logo=twitter&style=for-the-badge" alt="priyajeet_majhi" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React.js & Next.js**
 
 - 📫 How to reach me **manjhipiojeet@gmail.com**
 
