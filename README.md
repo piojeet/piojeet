@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Priyajeet Majhi</h1>
+<h1 align="center">Hi 👋, I'm Priyjeet Manjhi</h1>
 <h3 align="center">A passionate front-end web developer from India</h3>
 <img align = "right" alt="coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
